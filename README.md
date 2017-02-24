@@ -1,7 +1,7 @@
 # go-github-example
 
-[![Language](http://img.shields.io/badge/language-javascript-brightgreen.svg?style=flat
-)](https://developers.google.com/golang/)
+[![Language](http://img.shields.io/badge/language-golang-brightgreen.svg?style=flat
+)](https://golang.org/)
 
 ## Table of Contents
 
