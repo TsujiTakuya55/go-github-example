@@ -1,0 +1,21 @@
+{
+    "memo": "",
+    "projects": [
+        {
+            "name": "github.com/google/go-github",
+            "branch": "master",
+            "revision": "b272bb85ab53b610b5660988998feb0e0294bd2b",
+            "packages": [
+                "github"
+            ]
+        },
+        {
+            "name": "github.com/google/go-querystring",
+            "branch": "master",
+            "revision": "9235644dd9e52eeae6fa48efd539fdc351a0af53",
+            "packages": [
+                "query"
+            ]
+        }
+    ]
+}
